@@ -6,6 +6,8 @@ github.com/collinpreston/saml v0.0.0-20221020112841-de0350cb9099 h1:/lRX7HFFjsWF
 github.com/collinpreston/saml v0.0.0-20221020112841-de0350cb9099/go.mod h1:R0HlUi+u7NciHM7dcvxIBFmihdsQ2zM2/PRusXk9U5U=
 github.com/collinpreston/saml v0.0.0-20221020133544-de6caf591128 h1:bX/NXYpOOR7PcCNyOBdAhx4pZArfdr0/biXbJXBLLyg=
 github.com/collinpreston/saml v0.0.0-20221020133544-de6caf591128/go.mod h1:R0HlUi+u7NciHM7dcvxIBFmihdsQ2zM2/PRusXk9U5U=
+github.com/collinpreston/saml v0.0.0-20221020134601-bed6a49191d7 h1:zDhw5KXZcu0OD2bU/oxdzaUMWvfxuVgaeKwC9avChiU=
+github.com/collinpreston/saml v0.0.0-20221020134601-bed6a49191d7/go.mod h1:R0HlUi+u7NciHM7dcvxIBFmihdsQ2zM2/PRusXk9U5U=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/crewjam/httperr v0.2.0 h1:b2BfXR8U3AlIHwNeFFvZ+BV1LFvKLlzMjzaTnZMybNo=
 github.com/crewjam/httperr v0.2.0/go.mod h1:Jlz+Sg/XqBQhyMjdDiC+GNNRzZTD7x39Gu3pglZ5oH4=
