@@ -6,4 +6,4 @@ services:
     ports:
       - 9009:9009
     environment:
-      SP_METADATA_URL: https://f99f4e01-5fcc-431d-adb6-e1bc666d5630.mock.pstmn.io/metadata/
+      SP_METADATA_URL: http://host.docker.internal:8099/idp/metadata
