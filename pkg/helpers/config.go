@@ -10,8 +10,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/crewjam/saml"
-	"github.com/crewjam/saml/samlsp"
+	"github.com/collinpreston/saml"
+	"github.com/collinpreston/saml/samlsp"
 )
 
 func Env(key string, fallback string) string {

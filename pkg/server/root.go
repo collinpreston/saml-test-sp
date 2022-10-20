@@ -9,8 +9,8 @@ import (
 	log "github.com/sirupsen/logrus"
 
 	"beryju.org/saml-test-sp/pkg/helpers"
-	"github.com/crewjam/saml"
-	"github.com/crewjam/saml/samlsp"
+	"github.com/collinpreston/saml"
+	"github.com/collinpreston/saml/samlsp"
 )
 
 type Server struct {

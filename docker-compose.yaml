@@ -1,0 +1,9 @@
+version: '3.5'
+
+services:
+  saml-test-sp:
+    image: saml-test-sp
+    ports:
+      - 9009:9009
+    environment:
+      SP_METADATA_URL: https://a8e8ab1c-96d3-4c32-bd0b-6209b7e8e1ee.mock.pstmn.io/metadata/
